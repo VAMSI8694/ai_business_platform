@@ -85,3 +85,4 @@ fastapi
 uvicorn
 sqlalchemy
 python-jose
+pip freeze > requirements.txt
