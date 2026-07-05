@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/dashboard/node_modules/
+frontend/dashboard/build/
+
+# Database
+vectordb/
+
+# OS files
+.DS_Store
+Thumbs.db
