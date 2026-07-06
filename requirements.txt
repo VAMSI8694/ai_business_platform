@@ -85,4 +85,5 @@ fastapi
 uvicorn
 sqlalchemy
 python-jose
+passlib[bcrypt]==1.7.4
 pip freeze > requirements.txt
